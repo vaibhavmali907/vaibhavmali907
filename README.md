@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vaibhav_mali
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently Working as a Data Scientist
 - 💞️ I’m looking to collaborate on Data Science Field
 - 📫 How to reach me vaibhavmali907@gmail.com
 
